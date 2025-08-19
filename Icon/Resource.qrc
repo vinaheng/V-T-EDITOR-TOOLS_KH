@@ -1,23 +1,31 @@
 <RCC>
   <qresource prefix="Icon">
-    <file>Icon_of_Zalo.svg.png</file>
-    <file>info.png</file>
+    <file>bookmark.png</file>
     <file>check.ico</file>
     <file>closeicon.png</file>
+    <file>delete.png</file>
+    <file>down-drark.png</file>
+    <file>eye.png</file>
     <file>Facebook.png</file>
-    <file>folder-100.png</file>
+    <file>finish.wav</file>
+    <file>folder.png</file>
     <file>house.png</file>
+    <file>icon.ico</file>
+    <file>Icon_of_Zalo.svg.png</file>
+    <file>info.png</file>
+    <file>logo.png</file>
     <file>minusico.png</file>
-    <file>montage.png</file>
-    <file>notification.png</file>
+    <file>open.png</file>
     <file>plus.ico</file>
     <file>qr00.jpg</file>
-    <file>save.png</file>
+    <file>Resource.qrc</file>
+    <file>save_file.png</file>
     <file>subtract (1).ico</file>
     <file>Telegram.png</file>
     <file>tools.png</file>
     <file>uncheck.ico</file>
-    <file>update_v_editor.png</file>
+    <file>update_alert.png</file>
+    <file>Update_noti.png</file>
     <file>video.jpg</file>
     <file>warningicon.png</file>
   </qresource>
